@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "Homework using modern JS tooling (ES6/flow)",
   "main": "index.js",
-  
-  "type": "module",
   "directories": {
     "test": "test"
   },
